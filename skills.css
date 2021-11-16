@@ -1,0 +1,26 @@
+.skill {
+    text-align: center;
+    color: #838181;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+  }
+  
+   .skills img{
+     width: 10em;
+     height: 10em;
+  
+   }
+  
+   .skills{
+    padding: 100px ;
+    display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 15px;
+  align-items:stretch;
+  align-self: inline;
+  text-align: center;
+    margin-left:10;
+    padding: 70px 80px 70px 80px;
+  
+  
+   }
